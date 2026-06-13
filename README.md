@@ -5,7 +5,7 @@
 
 🔭 SWE Intern @ **HealthKart** — backend integrations, Redis caching, Dagster data pipelines, Segment CDP
 🎓 Ex-Intern @ **Microsoft Hyderabad** — Python static analysis tooling for security review
-🤝 Placement Coordinator @ NSUT
+🤝 
 
 ---
 
