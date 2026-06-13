@@ -1,31 +1,54 @@
-# Hi, I'm Yashaswini 👋
+# Hi, I'm Yashaswini Kulshrestha 👋
 
-Final-year B.Tech IT @ NSUT Delhi (May 2026) | SDE & AI Engineering
+**Final-year B.Tech Information Technology @ NSUT Delhi** (Graduating May 2026, CGPA 8.28)
+**SDE & AI/ML Engineering** — full-stack systems, agentic AI, backend infrastructure
 
-SWE Intern @ HealthKart (backend, Redis, data pipelines) · Ex-Intern @ Microsoft
-(Python static analysis tooling) · Placement Coordinator @ NSUT
+🔭 SWE Intern @ **HealthKart** — backend integrations, Redis caching, Dagster data pipelines, Segment CDP
+🎓 Ex-Intern @ **Microsoft Hyderabad** — Python static analysis tooling for security review
+🤝 Placement Coordinator @ NSUT
 
 ---
 
 ## 🤖 AI / Agentic Systems
-- **PersonalMail-RL** — GRPO/QLoRA fine-tuned email agent (Qwen2.5, FastAPI) ·
-  Meta OpenEnv Hackathon 2026 Finalist
-- **ATS Resume Agent** — LangGraph + GPT-4o resume pipeline, FastAPI + React + Docker
-- **VeriLoan** — GPT-4o + Whisper STT + MediaPipe loan-verification agent
+
+- **[PersonalMail-RL](https://github.com/YASHASWINIKSHRESTHA/personalmail-rl-opt)** — RL-trained email assistant using TRL GRPO + QLoRA on Qwen2.5, served via FastAPI. Built on OpenEnv. 🏆 **Meta OpenEnv Hackathon 2026 Finalist**
+- **[ATS Resume Agent](https://github.com/YASHASWINIKSHRESTHA/ATS_RESUME_AGENT)** — Multi-step resume optimization pipeline using LangGraph + GPT-4o, FastAPI backend, React frontend, containerized with Docker
+- **[VeriLoan](https://github.com/YASHASWINIKSHRESTHA/Verifloan)** — AI-assisted loan onboarding system with GPT-4o reasoning, Whisper speech-to-text, MediaPipe-based document/identity verification, fraud-detection module, rate limiting & security headers
 
 ## 🛠️ Backend / Systems
-- **HealthKart Event-Tracking Pipeline** — multi-tenant routing, OTel + Kafka + Flink +
-  ClickHouse + Dagster asset checks (schema drift / null-rate monitoring)
-- [link any DSA/CP repo, OS/CN project, or a clean backend service repo here]
 
-## 🧵 Competitive Programming / CS Fundamentals
-- [link your CP profile — Codeforces/LeetCode — and/or a DSA repo]
+- **HealthKart Event-Tracking & Validation Pipeline** — Multi-tenant event routing system using OpenTelemetry, Kafka, Flink, ClickHouse, and a Dagster-orchestrated S3 medallion architecture. My contributions: Segment CDP schema consolidation across tenants and Dagster asset checks for schema-drift / null-rate monitoring
+- *(more backend/CP repos coming soon)*
 
-## 🔧 Tech
-Python · Java/C++ · LangGraph · FastAPI · React · Docker · Kafka · Redis · SQL
+## 🧵 Competitive Programming & CS Fundamentals
 
-## 🏆
-EY Hackathon 5.0 — Top 47 · Reliance Foundation Scholar · GSSoC/SWoC contributor
+- Active problem-solver — DSA, OS, CN, OOP, SOLID principles
 
-## 📫
-[https://www.linkedin.com/in/yashaswini-kulshrestha-9516b4294/](#) · [kulshresthayashaswini@gmail.com](#) · [https://drive.google.com/file/d/18bYhX3SIZ4ngEpXRsdVaV49WauTd2aTW/view?usp=drivesdk](#)
+
+---
+
+## 🔧 Tech Stack
+
+**Languages:** Python · Java · C/C++ · JavaScript/TypeScript
+**AI/ML:** LangGraph · GPT-4o · RAG · TRL (GRPO) · QLoRA/Unsloth · Whisper · MediaPipe · Prompt Engineering & Agentic Workflows
+**Backend:** FastAPI · Node.js · Express · REST APIs · Redis
+**Data/Infra:** Kafka · Flink · ClickHouse · Dagster · Segment CDP · OpenTelemetry · SQL
+**Frontend:** React
+**DevOps & Tools:** Docker · Git · LaTeX
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **Meta OpenEnv Hackathon 2026** — Finalist (PersonalMail-RL)
+- 🏅 **EY Hackathon 5.0** — Top 47 of 100,000+ participants, Team Lead
+- 🎓 **Reliance Foundation Scholar**
+- 🌱 Open Source Contributor — **GirlScript Summer of Code (GSSoC)** & **Social Winter of Code (SWoC)**
+
+---
+
+## 📫 Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashaswini-kulshrestha-9516b4294/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kulshresthayashaswini@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/18bYhX3SIZ4ngEpXRsdVaV49WauTd2aTW/view?usp=drivesdk)
